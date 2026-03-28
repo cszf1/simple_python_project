@@ -1,2 +1,2 @@
 # simple_python_project
-simple python project I do for learning and practice
+simple python projects I do for learning and practice
