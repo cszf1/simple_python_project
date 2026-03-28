@@ -40,7 +40,7 @@ def test():
     print("4. To interrupt the execution of a program.")
     while 1:
         if input("> ") != '2':
-            print("")
+            print("Please try again")
         else:
             break
 
